@@ -1,2 +1,2 @@
-# Hackathon-Project
-A science quiz app for a Hackathon
+# Hackathon-Project (Quiz Master)
+A Trivia quiz app for a Hackathon
